@@ -24,7 +24,7 @@ flutter/material.dart
 🚀 How to Run
 Clone the repository:
 
-git clone 
+git clone https://github.com/Koose123/Remote-Demo.git
 cd csc315_remote_demo
 Install dependencies:
 
